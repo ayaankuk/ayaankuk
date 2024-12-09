@@ -2,7 +2,7 @@
 
 **`Computer Science Student (Wilfrid Laurier University)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+I am a 2nd year Computer Science student interested in software engineering and machine learning. Some of my hobbies include playing sports such as soccer, volleyball and weightlifting. As well as coding in my free time!
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
