@@ -27,13 +27,12 @@ I am a 2nd year Computer Science student interested in software engineering and 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="left" alt="Excel VBA" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <br />
 
 #
 
-### 📺 Latest YouTube Videos
+### 📺 Latest Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![7 Design Patterns EVERY Developer Should Know](https://ytcards.demolab.com/?id=BJatgOiiht4&title=7+Design+Patterns+EVERY+Developer+Should+Know&lang=en&timestamp=1733497212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1389 "7 Design Patterns EVERY Developer Should Know")](https://www.youtube.com/watch?v=BJatgOiiht4)
