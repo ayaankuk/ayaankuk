@@ -34,12 +34,6 @@ I am a 2nd year Computer Science student interested in software engineering and 
 
 ### 📺 Latest Projects
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![7 Design Patterns EVERY Developer Should Know](https://ytcards.demolab.com/?id=BJatgOiiht4&title=7+Design+Patterns+EVERY+Developer+Should+Know&lang=en&timestamp=1733497212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1389 "7 Design Patterns EVERY Developer Should Know")](https://www.youtube.com/watch?v=BJatgOiiht4)
-
-
-<!-- END YOUTUBE-CARDS -->
-
 [<img src="https://custom-icon-badges.demolab.com/badge/-Explore%20My%20Repositories-blue?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/ayaankuk?tab=repositories)
 
 
