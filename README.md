@@ -40,7 +40,8 @@ I am a 2nd year Computer Science student interested in software engineering and 
 
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Explore%20My%20Repositories-blue?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/ayaankuk?tab=repositories)
+
 
 #
 
