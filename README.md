@@ -1,4 +1,4 @@
-# [🏄‍♂️ Ayaan Kukreja](https://img.shields.io/badge/🏄‍♂️-Ayaan%20Kukreja-blueviolet?style=for-the-badge)
+# [🏄‍♂️ Ayaan Kukreja](https://raw.githubusercontent.com/ayaankuk/repo/main/banner.svg)
 
 **`Computer Science Student (Wilfrid Laurier University)`**
 
