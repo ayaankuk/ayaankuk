@@ -1,4 +1,4 @@
-# [🏄‍♂️ Ayaan Kukreja](https://raw.githubusercontent.com/ayaankuk/repo/main/banner.svg)
+# [🏄‍♂️ Ayaan Kukreja][(https://raw.githubusercontent.com/ayaankuk/repo/main/banner.svg)](https://github.com/ayaankuk/ayaankuk/blob/main/banner.svg)
 
 **`Computer Science Student (Wilfrid Laurier University)`**
 
