@@ -1,4 +1,4 @@
-# 🏄‍♂️ Ayaan Kukreja
+# [🏄‍♂️ Ayaan Kukreja](https://raw.githubusercontent.com/username/repo/main/banner.svg)
 
 **`Computer Science Student (Wilfrid Laurier University)`**
 
