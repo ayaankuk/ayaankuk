@@ -2,7 +2,7 @@
 
 **`Computer Science Student (Wilfrid Laurier University)`**
 
-I am a 2nd year Computer Science student interested in software engineering and machine learning. Some of my hobbies include playing sports such as soccer, volleyball and weightlifting. As well as coding in my free time!
+I am a 3rd year Computer Science student interested in software engineering and machine learning. Some of my hobbies include playing sports such as soccer, volleyball and weightlifting. As well as coding in my free time!
 
    <p align="left">
    <!-- GitHub Followers -->
